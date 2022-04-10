@@ -54,6 +54,7 @@ func Run() {
 	points := make([]pixel.Vec, 1)
 	fn := 0.
 	signal := [24]float64{100, 100, 100, 100, -100, -100, -100, -100, 100, 100, 100, 100, -100, -100, -100, -100, 100, 100, 100, 100, -100, -100, -100, -100}
+	fourierY = 
 	for running {
 		win.Clear(colornames.Black)
 		imd.Clear()

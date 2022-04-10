@@ -1,4 +1,4 @@
-module sussy
+module iter1
 
 go 1.17
 

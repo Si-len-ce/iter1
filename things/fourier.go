@@ -1,4 +1,4 @@
-package sussy
+package iter1
 
 import (
 	"math"
